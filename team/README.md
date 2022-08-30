@@ -115,6 +115,7 @@ See [us on Github](https://github.com/orgs/neuropoly/people), or our more specif
 * Nishka Katoch 
 * Rachad Chazbek
 * Theo Badra
+* Lore Flipts [<i class="fab fa-linkedin" title="LinkedIn" aria-hidden="true"></i><span>LinkedIn</span>](https://www.linkedin.com/in/lore-flipts-251688234/)
 
 ## Consultants
 
